@@ -1,12 +1,12 @@
 ## Hi there!  Welcome to my Github page! <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
 <p align="right">
   <a href="https://www.linkedin.com/in/namantaneja123/">
-    <img alt="Naman Taneja | Linkedin" width="24px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Linkedin.svg" />
+    <img alt="Naman Taneja | Linkedin" width="24px" src="images/Linkedin.svg" />
   </a> &nbsp;
-  <a href="mailto:balharatanvee@gmail.com">
-    <img alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Gmail.svg" />
+  <a href="mailto:naman.taneja123@gmail.com">
+    <img alt="Naman Taneja | Gmail" width="26px" src="images/Gmail.svg" />
   </a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=tanvee09&label=Profile%20views&color=0e75b6&style=flat" alt="tanvee09" height="24px"/>
+  <img src="https://komarev.com/ghpvc/?username=Namanrockzzz&label=Profile%20views&color=0e75b6&style=flat" alt="Namanrockzzz" height="24px"/>
 </p> 
 <br/>
 <p align="center">
