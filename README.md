@@ -32,4 +32,4 @@ and also a Web Developer (Django, Flask).
   
 <br/>  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=issues" alt="tanvee09" height="150"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Namanrockzzz&show_icons=true&locale=en&layout=compact" alt="Namanrockzzz" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Namanrockzzz&show_icons=true&locale=en&count_private=true&hide=issues" alt="Namanrockzzz" height="150"/></p>
