@@ -14,13 +14,13 @@
 </p>
   
 <h3 align="center">
-I'm Tanvee Balhara, 
+I'm Naman Taneja, 
 </h3>
 <h3 align="center">
-a second year Computer Engineering Undergraduate at NSUT,
+a Computer Vision and Machine Learning Enthusiast,
 </h3>
 <h3 align="center">
-and a Google WTEF scholar.
+and also a Web Developer (Django, Flask).
 </h3>
 
 <!--  
