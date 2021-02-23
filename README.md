@@ -1,4 +1,4 @@
-## Hi there!  Welcome to my Github page! <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
+## Hi there!  Welcome to my Github page! <img src="images/Hi.gif" width="29px">  
 <p align="right">
   <a href="https://www.linkedin.com/in/namantaneja123/">
     <img alt="Naman Taneja | Linkedin" width="24px" src="images/Linkedin.svg" />
@@ -10,7 +10,7 @@
 </p> 
 <br/>
 <p align="center">
-<img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
+<img src="images/naman.png" width="300px" align="center">
 </p>
   
 <h3 align="center">
